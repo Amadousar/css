@@ -1,0 +1,30 @@
+body {
+  background-color: aqua(209, 204, 214);
+  background-color:blanchedalmond;
+
+}
+.nav {
+  display: flex;
+}
+.nav ul {
+  display: flex;
+}
+
+.nav ul li {
+  display: flex;
+  justify-content: space-between;
+}
+.nav ul li a {
+  text-decoration: none;
+  margin: 13px;
+  font-weight: 400;
+  color: rgb(255, 255, 255);
+  list-style: none;
+}
+.pro {
+  text-align: center;
+}
+
+h1 {
+  color: rgb(34, 13, 13);
+}
